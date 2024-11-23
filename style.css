@@ -1,0 +1,205 @@
+:root {
+    --bg-main: #1a1a1a;
+    --bg-card: #2a2a2a;
+    --text-primary: #ffffff;
+    --text-secondary: #cccccc;
+    --accent: #4CAF50;
+    --accent-hover: #45a049;
+}
+
+body {
+    font-family: 'Roboto', Arial, sans-serif;
+    background-color: var(--bg-main);
+    color: var(--text-primary);
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    padding: 10px 0;
+    border-bottom: 1px solid var(--bg-card);
+}
+
+h1 {
+    margin: 0;
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.search-container {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+#searchInput {
+    flex-grow: 1;
+    padding: 12px;
+    font-size: 16px;
+    background-color: var(--bg-card);
+    border: 1px solid var(--text-secondary);
+    border-radius: 5px 0 0 5px;
+    color: var(--text-primary);
+}
+
+#searchButton {
+    padding: 12px 20px;
+    background-color: var(--accent);
+    color: white;
+    border: none;
+    border-radius: 0 5px 5px 0;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+#searchButton:hover {
+    background-color: var(--accent-hover);
+}
+
+#promptGrid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 20px;
+}
+
+.prompt-card {
+    background-color: var(--bg-card);
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s cubic-bezier(.25, .8, .25, 1);
+    cursor: pointer;
+}
+
+.prompt-card:hover {
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+    transform: translateY(-5px);
+}
+
+.prompt-card h3 {
+    margin-top: 0;
+    color: var(--accent);
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.prompt-card p {
+    color: var(--text-secondary);
+    margin-bottom: 15px;
+    font-size: 14px;
+    line-height: 1.4;
+}
+
+.card-actions {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.btn {
+    background-color: transparent;
+    border: none;
+    color: var(--text-secondary);
+    cursor: pointer;
+    font-size: 16px;
+    padding: 5px;
+    transition: color 0.3s ease;
+}
+
+.btn:hover {
+    color: var(--accent);
+}
+
+#addPromptBtn {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    background-color: var(--accent);
+    color: white;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    transition: all 0.3s ease;
+    border: 0px;
+}
+
+#addPromptBtn:hover {
+    transform: scale(1.1);
+    background-color: var(--accent-hover);
+}
+
+.offcanvas {
+    background-color: var(--bg-main);
+    color: var(--text-primary);
+}
+
+.offcanvas-header {
+    background-color: var(--bg-card);
+    padding: 20px;
+}
+
+.offcanvas-body {
+    padding: 20px;
+}
+
+#loadMoreBtn {
+    display: block;
+    margin: 30px auto 0;
+    padding: 12px 24px;
+    background-color: var(--accent);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+
+#loadMoreBtn:hover {
+    background-color: var(--accent-hover);
+}
+
+#noResultsMessage {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 18px;
+    color: var(--text-secondary);
+}
+
+.highlight {
+    background-color: yellow;
+    color: black;
+}
+
+@media (max-width: 768px) {
+    #promptGrid {
+        grid-template-columns: 1fr;
+    }
+
+    .container {
+        padding: 10px;
+    }
+
+    header {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    #translateBtn {
+        margin-top: 10px;
+    }
+}

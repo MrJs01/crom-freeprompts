@@ -1,0 +1,518 @@
+[
+    {
+        "id": 1,
+        "title": "An\u00e1lise de Dados Avan\u00e7ada",
+        "category": "technical",
+        "content": "Atue como um analista de dados experiente e me ajude a analisar [conjunto de dados] para extrair insights sobre [objetivo espec\u00edfico]...",
+        "votes": 1250,
+        "copies": 890,
+        "author": "Crom",
+        "dateCreated": "2023-10-15"
+    },
+    {
+        "id": 2,
+        "title": "Brainstorm Criativo",
+        "category": "creative",
+        "content": "Vamos fazer um brainstorm sobre [tema] usando a t\u00e9cnica dos 6 chap\u00e9us do pensamento. Comece apresentando diferentes perspectivas para...",
+        "votes": 980,
+        "copies": 720,
+        "author": "Crom",
+        "dateCreated": "2023-10-12"
+    },
+    {
+        "id": 3,
+        "title": "Planejamento de Projeto",
+        "category": "management",
+        "content": "Ajude a criar um planejamento detalhado para um projeto de [tipo de projeto] considerando cronograma, recursos e riscos potenciais...",
+        "votes": 1100,
+        "copies": 870,
+        "author": "Crom",
+        "dateCreated": "2023-09-21"
+    },
+    {
+        "id": 4,
+        "title": "Desenvolvimento \u00c1gil",
+        "category": "technical",
+        "content": "Explique como implementar o m\u00e9todo \u00e1gil em um time de desenvolvimento de software, considerando boas pr\u00e1ticas e desafios comuns...",
+        "votes": 1050,
+        "copies": 800,
+        "author": "Crom",
+        "dateCreated": "2023-11-05"
+    },
+    {
+        "id": 5,
+        "title": "Reda\u00e7\u00e3o Criativa",
+        "category": "creative",
+        "content": "Crie um texto criativo sobre [tema] utilizando t\u00e9cnicas de storytelling para capturar a aten\u00e7\u00e3o do leitor desde o in\u00edcio...",
+        "votes": 920,
+        "copies": 650,
+        "author": "Crom",
+        "dateCreated": "2023-09-30"
+    },
+    {
+        "id": 6,
+        "title": "An\u00e1lise de Mercado",
+        "category": "business",
+        "content": "Realize uma an\u00e1lise detalhada do mercado para [produto\/servi\u00e7o] identificando concorrentes, tend\u00eancias e oportunidades...",
+        "votes": 850,
+        "copies": 500,
+        "author": "Crom",
+        "dateCreated": "2023-08-20"
+    },
+    {
+        "id": 7,
+        "title": "SEO para Iniciantes",
+        "category": "technical",
+        "content": "Explique os fundamentos de SEO para iniciantes, abordando a import\u00e2ncia de palavras-chave, backlinks e otimiza\u00e7\u00e3o on-page...",
+        "votes": 1100,
+        "copies": 820,
+        "author": "Crom",
+        "dateCreated": "2023-10-10"
+    },
+    {
+        "id": 8,
+        "title": "Gest\u00e3o de Equipes Remotas",
+        "category": "management",
+        "content": "D\u00ea dicas para gerenciar equipes remotas de forma eficaz, focando em comunica\u00e7\u00e3o, produtividade e bem-estar dos colaboradores...",
+        "votes": 950,
+        "copies": 700,
+        "author": "Crom",
+        "dateCreated": "2023-07-30"
+    },
+    {
+        "id": 9,
+        "title": "Marketing de Influ\u00eancia",
+        "category": "business",
+        "content": "Desenvolva uma estrat\u00e9gia de marketing de influ\u00eancia para uma marca de [segmento], abordando a escolha de influenciadores e m\u00e9tricas de sucesso...",
+        "votes": 880,
+        "copies": 630,
+        "author": "Crom",
+        "dateCreated": "2023-11-02"
+    },
+    {
+        "id": 10,
+        "title": "Empreendedorismo Digital",
+        "category": "business",
+        "content": "Crie um plano de neg\u00f3cios para um projeto de empreendedorismo digital focado em [nicho], considerando estrat\u00e9gias de marketing e monetiza\u00e7\u00e3o...",
+        "votes": 1040,
+        "copies": 700,
+        "author": "Crom",
+        "dateCreated": "2023-09-25"
+    },
+    {
+        "id": 11,
+        "title": "Desenvolvimento Pessoal",
+        "category": "self-help",
+        "content": "Elabore um plano de desenvolvimento pessoal para melhorar habilidades como [habilidade espec\u00edfica], focando em metas de curto e longo prazo...",
+        "votes": 1150,
+        "copies": 950,
+        "author": "Crom",
+        "dateCreated": "2023-08-12"
+    },
+    {
+        "id": 12,
+        "title": "Tecnologia Blockchain",
+        "category": "technical",
+        "content": "Explique os conceitos b\u00e1sicos de blockchain e como ele pode ser aplicado no setor [setor], destacando suas vantagens e desafios...",
+        "votes": 1020,
+        "copies": 740,
+        "author": "Crom",
+        "dateCreated": "2023-11-08"
+    },
+    {
+        "id": 13,
+        "title": "Design Thinking",
+        "category": "creative",
+        "content": "Descreva como implementar o Design Thinking em um processo criativo para resolver o problema de [desafio espec\u00edfico] de forma inovadora...",
+        "votes": 900,
+        "copies": 600,
+        "author": "Crom",
+        "dateCreated": "2023-09-19"
+    },
+    {
+        "id": 14,
+        "title": "Finan\u00e7as Pessoais",
+        "category": "self-help",
+        "content": "D\u00ea dicas pr\u00e1ticas para organizar as finan\u00e7as pessoais, criando um plano de or\u00e7amento e estrat\u00e9gias de economia para [objetivo financeiro]...",
+        "votes": 1120,
+        "copies": 750,
+        "author": "Crom",
+        "dateCreated": "2023-10-18"
+    },
+    {
+        "id": 15,
+        "title": "Transforma\u00e7\u00e3o Digital",
+        "category": "business",
+        "content": "Crie um guia para a transforma\u00e7\u00e3o digital de uma empresa de [setor], incluindo a implementa\u00e7\u00e3o de novas tecnologias e a adapta\u00e7\u00e3o da cultura organizacional...",
+        "votes": 950,
+        "copies": 680,
+        "author": "Crom",
+        "dateCreated": "2023-11-10"
+    },
+    {
+        "id": 16,
+        "title": "Gest\u00e3o de Tempo",
+        "category": "self-help",
+        "content": "Explique t\u00e9cnicas eficazes de gest\u00e3o de tempo para aumentar a produtividade pessoal, incluindo ferramentas de organiza\u00e7\u00e3o e prioriza\u00e7\u00e3o de tarefas...",
+        "votes": 980,
+        "copies": 710,
+        "author": "Crom",
+        "dateCreated": "2023-09-07"
+    },
+    {
+        "id": 17,
+        "title": "Marketing Digital Avan\u00e7ado",
+        "category": "business",
+        "content": "Desenvolva uma estrat\u00e9gia de marketing digital avan\u00e7ada para aumentar a visibilidade de um site de [nicho], utilizando SEO, PPC, e campanhas de redes sociais...",
+        "votes": 960,
+        "copies": 690,
+        "author": "Crom",
+        "dateCreated": "2023-10-05"
+    },
+    {
+        "id": 18,
+        "title": "Lideran\u00e7a Eficaz",
+        "category": "management",
+        "content": "Descreva as qualidades de um l\u00edder eficaz e como aplicar t\u00e9cnicas de lideran\u00e7a para aumentar a motiva\u00e7\u00e3o e o desempenho de uma equipe...",
+        "votes": 940,
+        "copies": 680,
+        "author": "Crom",
+        "dateCreated": "2023-10-17"
+    },
+    {
+        "id": 19,
+        "title": "Inova\u00e7\u00e3o no Mercado de TI",
+        "category": "technical",
+        "content": "Discorra sobre as principais inova\u00e7\u00f5es no mercado de tecnologia da informa\u00e7\u00e3o e como as empresas podem se adaptar para se manter competitivas...",
+        "votes": 870,
+        "copies": 630,
+        "author": "Crom",
+        "dateCreated": "2023-09-15"
+    },
+    {
+        "id": 20,
+        "title": "Gest\u00e3o de Crises",
+        "category": "management",
+        "content": "Ofere\u00e7a estrat\u00e9gias para gerenciar crises em empresas, incluindo comunica\u00e7\u00e3o eficaz e resolu\u00e7\u00e3o de problemas de forma r\u00e1pida e assertiva...",
+        "votes": 900,
+        "copies": 640,
+        "author": "Crom",
+        "dateCreated": "2023-08-25"
+    },
+    {
+        "id": 21,
+        "title": "Economia Circular",
+        "category": "business",
+        "content": "Desenvolva um plano de neg\u00f3cios para uma empresa que adote os princ\u00edpios da economia circular, com foco em sustentabilidade e inova\u00e7\u00e3o...",
+        "votes": 850,
+        "copies": 590,
+        "author": "Crom",
+        "dateCreated": "2023-11-01"
+    },
+    {
+        "id": 22,
+        "title": "User Experience (UX)",
+        "category": "creative",
+        "content": "Elabore uma estrat\u00e9gia de User Experience para um aplicativo de [tipo de aplicativo], priorizando a navega\u00e7\u00e3o intuitiva e a satisfa\u00e7\u00e3o do usu\u00e1rio...",
+        "votes": 1010,
+        "copies": 760,
+        "author": "Crom",
+        "dateCreated": "2023-08-30"
+    },
+    {
+        "id": 23,
+        "title": "E-commerce de Sucesso",
+        "category": "business",
+        "content": "Explique como criar um e-commerce de sucesso, considerando a escolha de plataforma, estrat\u00e9gias de marketing e otimiza\u00e7\u00e3o da experi\u00eancia do cliente...",
+        "votes": 1050,
+        "copies": 800,
+        "author": "Crom",
+        "dateCreated": "2023-07-22"
+    },
+    {
+        "id": 24,
+        "title": "Cultura Organizacional",
+        "category": "management",
+        "content": "Analise a import\u00e2ncia de uma cultura organizacional s\u00f3lida e como ela pode influenciar o desempenho e a satisfa\u00e7\u00e3o dos colaboradores...",
+        "votes": 980,
+        "copies": 720,
+        "author": "Crom",
+        "dateCreated": "2023-06-10"
+    },
+    {
+        "id": 25,
+        "title": "Autoconhecimento para L\u00edderes",
+        "category": "self-help",
+        "content": "Ajude l\u00edderes a desenvolverem o autoconhecimento para melhorar sua comunica\u00e7\u00e3o e habilidades de tomada de decis\u00e3o...",
+        "votes": 930,
+        "copies": 650,
+        "author": "Crom",
+        "dateCreated": "2023-08-15"
+    },
+    {
+        "id": 26,
+        "title": "Customer Journey",
+        "category": "business",
+        "content": "Desenvolva um mapa de jornada do cliente para uma marca de [segmento], destacando os pontos de contato e as emo\u00e7\u00f5es em cada etapa...",
+        "votes": 890,
+        "copies": 610,
+        "author": "Crom",
+        "dateCreated": "2023-07-28"
+    },
+    {
+        "id": 27,
+        "title": "Gest\u00e3o de Inova\u00e7\u00e3o",
+        "category": "management",
+        "content": "Crie um plano para implementar pr\u00e1ticas de gest\u00e3o de inova\u00e7\u00e3o dentro de uma empresa, incentivando a criatividade e a busca por novas solu\u00e7\u00f5es...",
+        "votes": 940,
+        "copies": 670,
+        "author": "Crom",
+        "dateCreated": "2023-09-10"
+    },
+    {
+        "id": 28,
+        "title": "Empatia no Ambiente Corporativo",
+        "category": "management",
+        "content": "Explique a import\u00e2ncia da empatia no ambiente corporativo e como os l\u00edderes podem aplic\u00e1-la para melhorar a din\u00e2mica das equipes...",
+        "votes": 880,
+        "copies": 620,
+        "author": "Crom",
+        "dateCreated": "2023-11-06"
+    },
+    {
+        "id": 29,
+        "title": "Gamifica\u00e7\u00e3o no Trabalho",
+        "category": "management",
+        "content": "Apresente formas de implementar a gamifica\u00e7\u00e3o no ambiente de trabalho para aumentar a motiva\u00e7\u00e3o e o engajamento da equipe...",
+        "votes": 1020,
+        "copies": 750,
+        "author": "Crom",
+        "dateCreated": "2023-07-14"
+    },
+    {
+        "id": 30,
+        "title": "Blockchain para Neg\u00f3cios",
+        "category": "business",
+        "content": "Explique como as empresas podem implementar solu\u00e7\u00f5es baseadas em blockchain para melhorar a seguran\u00e7a, transpar\u00eancia e efici\u00eancia em seus processos...",
+        "votes": 960,
+        "copies": 690,
+        "author": "Crom",
+        "dateCreated": "2023-08-05"
+    },
+    {
+        "id": 31,
+        "title": "Motiva\u00e7\u00e3o no Trabalho",
+        "category": "self-help",
+        "content": "Ofere\u00e7a estrat\u00e9gias para aumentar a motiva\u00e7\u00e3o no trabalho, abordando fatores como reconhecimento, desafios e ambiente de trabalho...",
+        "votes": 890,
+        "copies": 630,
+        "author": "Crom",
+        "dateCreated": "2023-07-18"
+    },
+    {
+        "id": 32,
+        "title": "Constru\u00e7\u00e3o de Marca Pessoal",
+        "category": "self-help",
+        "content": "Descreva como construir uma marca pessoal forte e aut\u00eantica, destacando sua identidade e valores para alcan\u00e7ar seus objetivos profissionais...",
+        "votes": 1030,
+        "copies": 740,
+        "author": "Crom",
+        "dateCreated": "2023-10-23"
+    },
+    {
+        "id": 33,
+        "title": "Desenvolvimento de Produto",
+        "category": "technical",
+        "content": "Explique as etapas do desenvolvimento de um produto, desde a concep\u00e7\u00e3o at\u00e9 o lan\u00e7amento no mercado, com foco em testes e valida\u00e7\u00e3o de mercado...",
+        "votes": 950,
+        "copies": 680,
+        "author": "Crom",
+        "dateCreated": "2023-06-20"
+    },
+    {
+        "id": 34,
+        "title": "Design de Interface",
+        "category": "creative",
+        "content": "Crie um design de interface de usu\u00e1rio para um aplicativo de [tipo], focando na simplicidade e funcionalidade para uma experi\u00eancia intuitiva...",
+        "votes": 940,
+        "copies": 680,
+        "author": "Crom",
+        "dateCreated": "2023-10-29"
+    },
+    {
+        "id": 35,
+        "title": "O Futuro do Trabalho",
+        "category": "business",
+        "content": "Discorra sobre as tend\u00eancias do futuro do trabalho, incluindo a automa\u00e7\u00e3o, trabalho remoto e as habilidades que os profissionais precisar\u00e3o desenvolver...",
+        "votes": 980,
+        "copies": 700,
+        "author": "Crom",
+        "dateCreated": "2023-11-11"
+    },
+    {
+        "id": 36,
+        "title": "Responsabilidade Social Empresarial",
+        "category": "business",
+        "content": "Desenvolva uma estrat\u00e9gia de responsabilidade social para uma empresa de [segmento], com foco em impacto positivo na comunidade e sustentabilidade...",
+        "votes": 920,
+        "copies": 650,
+        "author": "Crom",
+        "dateCreated": "2023-08-09"
+    },
+    {
+        "id": 37,
+        "title": "Networking Profissional",
+        "category": "self-help",
+        "content": "D\u00ea dicas de como construir uma rede de contatos profissionais eficaz, utilizando eventos, m\u00eddias sociais e outros meios para fortalecer rela\u00e7\u00f5es...",
+        "votes": 950,
+        "copies": 690,
+        "author": "Crom",
+        "dateCreated": "2023-07-13"
+    },
+    {
+        "id": 38,
+        "title": "Trabalho em Equipe",
+        "category": "management",
+        "content": "Descreva estrat\u00e9gias para melhorar o trabalho em equipe, incluindo a comunica\u00e7\u00e3o eficaz, colabora\u00e7\u00e3o e resolu\u00e7\u00e3o de conflitos...",
+        "votes": 970,
+        "copies": 710,
+        "author": "Crom",
+        "dateCreated": "2023-10-03"
+    },
+    {
+        "id": 39,
+        "title": "Finan\u00e7as Corporativas",
+        "category": "business",
+        "content": "Ofere\u00e7a um guia sobre como gerenciar as finan\u00e7as de uma empresa de [segmento], incluindo fluxo de caixa, investimentos e gest\u00e3o de riscos financeiros...",
+        "votes": 890,
+        "copies": 620,
+        "author": "Crom",
+        "dateCreated": "2023-09-17"
+    },
+    {
+        "id": 40,
+        "title": "Vendas Estrat\u00e9gicas",
+        "category": "business",
+        "content": "Desenvolva uma estrat\u00e9gia de vendas para uma empresa de [segmento], focando em identifica\u00e7\u00e3o de leads, qualifica\u00e7\u00e3o e fechamento de neg\u00f3cios...",
+        "votes": 900,
+        "copies": 630,
+        "author": "Crom",
+        "dateCreated": "2023-08-19"
+    },
+    {
+        "id": 41,
+        "title": "Criatividade no Marketing",
+        "category": "creative",
+        "content": "Explique como aplicar t\u00e9cnicas criativas no marketing digital para engajar o p\u00fablico e aumentar as convers\u00f5es...",
+        "votes": 850,
+        "copies": 590,
+        "author": "Crom",
+        "dateCreated": "2023-11-04"
+    },
+    {
+        "id": 42,
+        "title": "Sustentabilidade Empresarial",
+        "category": "business",
+        "content": "Crie um plano de a\u00e7\u00e3o para implementar pr\u00e1ticas sustent\u00e1veis em uma empresa, incluindo economia de recursos e responsabilidade ambiental...",
+        "votes": 940,
+        "copies": 660,
+        "author": "Crom",
+        "dateCreated": "2023-09-24"
+    },
+    {
+        "id": 43,
+        "title": "An\u00e1lise de Concorr\u00eancia",
+        "category": "business",
+        "content": "Realize uma an\u00e1lise de concorr\u00eancia para uma empresa de [segmento], identificando as for\u00e7as, fraquezas e oportunidades no mercado...",
+        "votes": 890,
+        "copies": 640,
+        "author": "Crom",
+        "dateCreated": "2023-07-09"
+    },
+    {
+        "id": 44,
+        "title": "Evolu\u00e7\u00e3o da Internet das Coisas",
+        "category": "technical",
+        "content": "Explique a evolu\u00e7\u00e3o da Internet das Coisas (IoT) e como as empresas est\u00e3o aproveitando essas tecnologias para melhorar seus processos...",
+        "votes": 880,
+        "copies": 610,
+        "author": "Crom",
+        "dateCreated": "2023-10-13"
+    },
+    {
+        "id": 45,
+        "title": "Otimiza\u00e7\u00e3o de Processos",
+        "category": "management",
+        "content": "Descreva como implementar a otimiza\u00e7\u00e3o de processos em uma empresa, visando aumentar a efici\u00eancia e reduzir custos operacionais...",
+        "votes": 970,
+        "copies": 710,
+        "author": "Crom",
+        "dateCreated": "2023-08-07"
+    },
+    {
+        "id": 46,
+        "title": "Marketing de Conte\u00fado",
+        "category": "business",
+        "content": "Desenvolva uma estrat\u00e9gia de marketing de conte\u00fado para aumentar a autoridade de uma marca no nicho de [nicho], utilizando blogs, v\u00eddeos e redes sociais...",
+        "votes": 960,
+        "copies": 690,
+        "author": "Crom",
+        "dateCreated": "2023-09-14"
+    },
+    {
+        "id": 47,
+        "title": "Estrat\u00e9gias de Pre\u00e7o",
+        "category": "business",
+        "content": "Explique como definir estrat\u00e9gias de pre\u00e7o para um produto de [segmento], considerando concorr\u00eancia, custo e valor percebido pelo consumidor...",
+        "votes": 920,
+        "copies": 640,
+        "author": "Crom",
+        "dateCreated": "2023-08-26"
+    },
+    {
+        "id": 48,
+        "title": "Blockchain e Criptomoedas",
+        "category": "technical",
+        "content": "Explique como o blockchain est\u00e1 revolucionando o mercado financeiro, incluindo o impacto das criptomoedas e seu uso no sistema banc\u00e1rio...",
+        "votes": 880,
+        "copies": 610,
+        "author": "Crom",
+        "dateCreated": "2023-10-15"
+    },
+    {
+        "id": 49,
+        "title": "Gest\u00e3o de Marca",
+        "category": "business",
+        "content": "Desenvolva um plano de gest\u00e3o de marca para uma empresa de [segmento], com foco em identidade visual, comunica\u00e7\u00e3o e engajamento do p\u00fablico...",
+        "votes": 1000,
+        "copies": 730,
+        "author": "Crom",
+        "dateCreated": "2023-09-03"
+    },
+    {
+        "id": 50,
+        "title": "Tend\u00eancias de Marketing",
+        "category": "business",
+        "content": "Analise as principais tend\u00eancias de marketing para [ano], destacando as novas estrat\u00e9gias, ferramentas e tecnologias que est\u00e3o mudando o mercado...",
+        "votes": 1050,
+        "copies": 780,
+        "author": "Crom",
+        "dateCreated": "2023-11-13"
+    },
+    {
+        "id": 51,
+        "title": "teste",
+        "content": "teste",
+        "category": [
+            "teste"
+        ]
+    },
+    {
+        "id": 52,
+        "title": "me da p\u00e3o",
+        "content": "quero comer p\u00e3o",
+        "category": [
+            "comida"
+        ]
+    }
+]
